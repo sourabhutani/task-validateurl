@@ -2,7 +2,7 @@ var express= require('express');
 var app=express();
 
 exports.validateUri = (req,res) => {
-  //   var uri=req.params.uri-data;
+    var uri=req.params.uri-data;
 
 console.log(uri);
 
