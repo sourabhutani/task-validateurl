@@ -16,8 +16,9 @@
     "url": "https://github.com/sourabhutani/task-validateurl/issues"
   },
   "dependencies": {
-    "express": "~4.16.2",
     "body-parser": "~1.18.2",
-    "nodemon": "~1.12.1"
+    "express": "~4.16.2",
+    "nodemon": "~1.12.1",
+    "request": "^2.85.0"
   }
 }
